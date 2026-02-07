@@ -32,3 +32,4 @@ A simple and interactive star rating component built with HTML, CSS, and JavaScr
 🚀 How to Use:
 
 Clone the repository:
+https://github.com/golikarami/rating-component.git
