@@ -1,11 +1,11 @@
-**Star Rating Component**
+# Star Rating Component
 
-A simple and interactive star rating component built with HTML, CSS, and JavaScript.
+A simple and interactive **star rating component** built with HTML, CSS, and JavaScript.
+
+---
 
 
-
-
-✨ Features:
+## ✨ Features:
 
 . Clickable star rating
 
@@ -16,9 +16,9 @@ A simple and interactive star rating component built with HTML, CSS, and JavaScr
 . Clean and minimal UI
 
 
+---
 
-
-🛠️ Built With:
+## 🛠️ Built With:
 
 . HTML – semantic structure
 
@@ -27,9 +27,9 @@ A simple and interactive star rating component built with HTML, CSS, and JavaScr
 . JavaScript – interaction and state handling
 
 
+---
+
+## 🚀 How to Use:
 
 
-🚀 How to Use:
-
-Clone the repository:
 https://github.com/golikarami/rating-component.git
